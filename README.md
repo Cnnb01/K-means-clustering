@@ -5,4 +5,4 @@ The model is first fed data from 6 users with their different ratings on differe
 The movies are then listed out and a dataframe is created displaying the different users, the movies, and their ratings to each of the movies.
 A library called cluster is then imported from skitlearn which will help in clustering the users based on their 
 
-The user column is dropped as it is not needed in the data analysis
+The user column is dropped as it is not needed in the data analysi
